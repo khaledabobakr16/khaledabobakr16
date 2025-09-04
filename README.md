@@ -1,7 +1,7 @@
 <!-- Profile README for Khaled Abubakr -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Khaled+Abubakr+Salama+Abdullah;Lead+E-Payments+%7C+Java+Spring+Boot+%26+Full-Stack;Cross-Platform+Mobile+Developer+%7C+Flutter+%26+React+Native;Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Khaled+Abubakr+Salama+Abdullah;%7C+Java+Spring+Boot+%26+Full-Stack;Cross-Platform+Mobile+Developer+%7C+Flutter+%26+React+Native;Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" />
 </p>
 
 <p align="center">
