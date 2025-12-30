@@ -86,8 +86,6 @@ AI-based crop yield prediction platform.
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaledabobakr16&show_icons=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledabobakr16&layout=compact" height="160"/>
 </p>
 
 <p align="center">
