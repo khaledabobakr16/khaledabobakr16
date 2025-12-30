@@ -1,40 +1,48 @@
 <!-- Profile README for Khaled Abubakr -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Khaled+Abubakr+Salama+Abdullah;Java+Spring+Boot+%26+Full-Stack;Cross-Platform+Mobile+Developer+%7C+Flutter+%26+React+Native;Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Khaled+Abubakr+Salama+Abdullah;PHP+Laravel+Backend+Developer;Cross-Platform+Mobile+Developer+%7C+Flutter;Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" />
 </p>
 
 <p align="center">
-  <a href="mailto:khaledabobakr15@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-khaledabobakr15%40gmail.com-red?logo=gmail"></a>
-  <a href="https://linkedin.com/in/khaled-abubakr-a0a22a234"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Khaled%20Abubakr-blue?logo=linkedin"></a>
-  <a href="https://github.com/khaledabobakr16"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-khaledabobakr16-000?logo=github"></a>
+  <a href="mailto:khaledabobakr15@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-khaledabobakr15%40gmail.com-red?logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/khaled-abubakr-a0a22a234">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Khaled%20Abubakr-blue?logo=linkedin">
+  </a>
+  <a href="https://github.com/khaledabobakr16">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-khaledabobakr16-000?logo=github">
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- Software Engineer • Full-Stack (Java Spring Boot & .Net) • Cross-Platform Mobile (Flutter & React Native).
-- Built & shipped **multiple production apps** (iOS/Android/Web) with clean architecture, state management, and CI/CD.
-- Strong with REST APIs, SQL/PLSQL (Oracle/MS-SQL), Firebase, and Agile/Scrum.
+- **Software Engineer | PHP Laravel Backend & Flutter Mobile Developer**
+- Experienced in building **scalable backend systems**, RESTful APIs, and cross-platform mobile applications.
+- Passionate about **clean architecture**, performance optimization, and delivering production-ready solutions.
 
-> عربي: مطوّر تطبيقات جوال وويب بخبرة في Java/Spring Boot وFlutter، مهتم بالأداء وتجربة المستخدم وبناء حلول قابلة للتوسع.
+> عربي: مطوّر Backend باستخدام Laravel ومطوّر تطبيقات Flutter، مهتم ببناء أنظمة قوية وقابلة للتوسع مع تجربة مستخدم ممتازة.
 
 ---
 
 ## 🧰 Tech Stack
-**Backend:** Java, Spring Boot, REST, OOP, Python (ML)  
-**Databases:** Oracle, MS SQL Server, SQL, PLSQL, Firebase, SQLite  
-**Mobile/Web:** Flutter (Dart), React Native, Angular, HTML, CSS, JavaScript  
-**DevOps/OS:** Linux, Windows, Flask deploy, CI/CD (Fastlane, Codemagic)  
-**Practices:** Clean Architecture, SOLID, MVC/MVVM, TDD, Agile (Scrum/Kanban)  
-**Tools:** Git/GitHub/GitLab/Bitbucket, Unit Testing, Debugging
+**Backend:** PHP, Laravel, REST APIs, OOP, MVC  
+**Databases:** MySQL, PostgreSQL, SQL, Firebase  
+**Mobile:** Flutter (Dart), Cross-Platform Development  
+**Web Basics:** HTML, CSS, JavaScript  
+**DevOps/OS:** Linux, Windows, CI/CD  
+**Practices:** Clean Architecture, SOLID, MVC, Agile (Scrum)  
+**Tools:** Git, GitHub, GitLab, Postman, Unit Testing, Debugging
 
 ---
 
 ## 📱 Featured Projects
 - **The Plant (Graduation Project)** – AI Crop Yield Prediction  
-  `Python • Flask • Flutter`  
-  <a href="https://github.com/khaledabobakr16/the_plant">GitHub Repo</a> • <a href="https://sweet-ganache-4826c0.netlify.app/">Web Demo</a>
+  `Flutter • PHP Backend • Python (ML)`  
+  <a href="https://github.com/khaledabobakr16/the_plant">GitHub Repo</a> •
+  <a href="https://sweet-ganache-4826c0.netlify.app/">Web Demo</a>
 
 ---
 
@@ -56,7 +64,7 @@
 
 ## 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,react,angular,js,html,css,python,firebase,sqlite,postgres,linux,git,github,gitlab,bitbucket,fastlane&perline=10" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,mysql,postgres,firebase,html,css,js,linux,git,github,gitlab,postman&perline=10" />
 </p>
 
 ---
@@ -65,8 +73,8 @@
 - **Email:** khaledabobakr15@gmail.com  
 - **LinkedIn:** linkedin.com/in/khaled-abubakr-a0a22a234  
 
-> Open to remote roles, freelance projects, and collaborations.
+> Open to backend Laravel roles, Flutter projects, freelance work, and remote opportunities.
 
 ---
 
-*Thanks for stopping by! ⭐ If you like my work, consider following or starring repositories.*
+⭐ *If you like my work, consider following or starring repositories.*
