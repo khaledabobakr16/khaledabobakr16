@@ -98,6 +98,7 @@ AI-based crop yield prediction platform.
   <img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,mysql,postgres,firebase,html,css,js,linux,git,github,gitlab,postman&perline=10" />
 </p>
 
+
 ---
 
 ## 📬 Contact
