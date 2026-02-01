@@ -90,10 +90,10 @@ AI-based crop yield prediction platform.
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledabobakr16&layout=compact&theme=tokyonight" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledabobakr16&layout=compact&theme=tokyonight" alt="Top Languages" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=khaledabobakr16&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+       <img src="https://github-readme-stats.vercel.app/api?username=khaledabobakr16&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
