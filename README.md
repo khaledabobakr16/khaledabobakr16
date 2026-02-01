@@ -84,12 +84,6 @@ AI-based crop yield prediction platform.
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=khaledabobakr16&theme=dark&hide_border=true&border_radius=4.8" alt="GitHub Streak" /></a>
-
----
-
 ## 🛠️ Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,mysql,postgres,firebase,html,css,js,linux,git,github,gitlab,postman&perline=10" />
